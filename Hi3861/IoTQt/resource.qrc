@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/image/connect">
+        <file>image/connect/no.png</file>
+        <file>image/connect/yes.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>image/111.png</file>
+        <file>image/aaa.jpg</file>
+        <file>image/bbb.png</file>
+    </qresource>
+</RCC>

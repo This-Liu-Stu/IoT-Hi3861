@@ -1,0 +1,10 @@
+release/aliyun.o
+release/chartwindow.o
+release/main.o
+release/mainwindow.o
+release/switchButton.o
+release/qrc_resource.o
+release/moc_aliyun.o
+release/moc_chartwindow.o
+release/moc_mainwindow.o
+release/moc_switchButton.o

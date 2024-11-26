@@ -1,0 +1,10 @@
+debug/aliyun.o
+debug/chartwindow.o
+debug/main.o
+debug/mainwindow.o
+debug/switchButton.o
+debug/qrc_resource.o
+debug/moc_aliyun.o
+debug/moc_chartwindow.o
+debug/moc_mainwindow.o
+debug/moc_switchButton.o
